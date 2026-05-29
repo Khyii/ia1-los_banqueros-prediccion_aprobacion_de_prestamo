@@ -21,7 +21,9 @@ El único archivo utilizado en el proyecto (sin contar librerías y qué no) es 
 ## Usar/conseguir archivos
 
 En los notebooks, se accede al dataset mediante pd.read_csv(), con dirección de ruta
+
 https://raw.githubusercontent.com/Khyii/ia1-los_banqueros-prediccion_aprobacion_de_prestamo/refs/heads/main/loan_approval.csv
+
 y separación por coma (",") y, dado que el repositorio es público, debería funcionar sin importar quién lo hace.
 
 Sin embargo, si esto no funciona o, por cualquier motivo, se desea trabajar con el archivo original de Kaggle, el proceso sería el siguiente:
