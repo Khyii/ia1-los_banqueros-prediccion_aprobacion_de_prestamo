@@ -38,8 +38,8 @@ Sin embargo, si esto no funciona o, por cualquier motivo, se desea trabajar con 
 
 El proyecto se propuso como el primer paso en una cadena de proyectos cuya escala, francamente, excede la materia vista.
 
-Se desea crear un programa capaz de simular el comportamiento de una entidad bancaria en base a su historial aceptando/rechazando préstamos. Subsecuentemente, se busca crear en un ambiente simulado donde múltiples individuos de distintas demográficas y necesidades piden créditos al banco y, al ser aceptados, o logran pagar sus deudas a tiempo, o necesitan extensiones.
+Se busca crear un programa capaz de simular el comportamiento de una entidad bancaria en base a su historial aceptando/rechazando préstamos. Subsecuentemente, se busca crear un ambiente simulado donde múltiples individuos de distintas demográficas y necesidades pidan créditos al banco y, al ser aceptados, o logran pagar sus deudas a tiempo, o necesitan extensiones.
 
-Con el pasar del tiempo, se desea estimar qué tan lucrativo es el banco, y qué porcentaje de sus deudores terminan 'esclavizados' por haber tomado créditos que después no fueron capaces de repagar. Todo esto con la meta final de poder comparar múltiples bancos para discernir el menos predatorio.
+Al final de la simulación, se estima qué tan lucrativo fue el banco, y qué porcentaje de sus deudores quedaron 'enganchados' en algún momento por haber tomado créditos que, después, no fueron capaces de repagar. Finalmente, se deben correr pruebas con distintas alteraciones a la ia para, idealmente, mantener sostenibilidad financiera y minimizar la proporción de deudores eternamente endeudados.
 
 Dada la naturaleza sintética de los datos, tiene poca utilidad inmediata. Sin embargo, el proceso de su creación dice tener distribuciones y variedad que reflejan al mundo real, por lo que puede ser un inicio más "limpio" y sencillo que si se trabaja con datos reales desde el inicio.
