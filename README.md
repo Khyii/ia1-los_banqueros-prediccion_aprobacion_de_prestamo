@@ -1,3 +1,7 @@
+# Video resumen proyecto
+Link al video:\
+https://youtu.be/2mn3MFk1VsM
+
 # IA1 - Los Banqueros - Predicción aprobación de préstamo
 Este proyecto busca simular el criterio de aceptación de créditos de una entidad bancaria mediante aprendizaje supervisado, no supervisado y profundo.
 
